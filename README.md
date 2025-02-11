@@ -1,4 +1,4 @@
-# sqlalchemy-expert
+# SQLAlchemy Expert
 
 Welcome to my SQLAlchemy Expert Repository!
 
@@ -12,4 +12,4 @@ Welcome to my SQLAlchemy Expert Repository!
 - Structure
 - Tests
 
-`IMPORTANT`: This repo still in progress, more content will be added.
+`⚠️ IMPORTANT`: This repository is still in progress.
